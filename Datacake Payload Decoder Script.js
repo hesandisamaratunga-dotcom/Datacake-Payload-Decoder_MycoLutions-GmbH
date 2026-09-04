@@ -3,6 +3,7 @@ function Decoder(payload, port) {
   // OR wraps them in payload.bytes or payload.data
   var bytes;
 
+
   if (Array.isArray(payload)) {
     // Called with raw byte array
     bytes = payload;
