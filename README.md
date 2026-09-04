@@ -1,4 +1,4 @@
-# Datacake-Payload-Decoder
+# Datacake-Payload-Decoder @MycoLutions GmbH
 
 All rights reserved to MycoLutions GmbH. This is a script I developed as an IoT and Sensor Systems Engineering intern.
 
