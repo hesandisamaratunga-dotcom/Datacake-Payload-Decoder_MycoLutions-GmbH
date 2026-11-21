@@ -1,4 +1,4 @@
-function Decoder(payload, port) {
+/* function Decoder(payload, port) {
   // Milesight Gateway integration in Datacake passes bytes directly
   // OR wraps them in payload.bytes or payload.data
   var bytes;
@@ -51,3 +51,4 @@ function Decoder(payload, port) {
 
   return decoded;
 }
+*/
